@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @grahamprie
+- 👀 I’m interested in Musical equipment and Amateur Radio
+- 🌱 I’m currently learning how to use interrupts on Arduino platforms
+- 💞️ I’m looking to collaborate on Nextion touch screens
+- 📫 How to reach me - grahamprie@sky.com is the only way
